@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35681664131",
+    "project_id": "firbase-1d13f",
+    "storage_bucket": "firbase-1d13f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35681664131:android:4767cca704bf5204596fb6",
+        "android_client_info": {
+          "package_name": "com.example.quizapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35681664131-l53uvchqvje1os69pe8pcdalj8r96sj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQe5mBiLfMLvje8MOrQHNpE-KirrI0_2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35681664131-l53uvchqvje1os69pe8pcdalj8r96sj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
